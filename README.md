@@ -1,4 +1,5 @@
-# signal-processing-matlab
+# Signal Processing with MATLAB
+
 This repository contains MATLAB implementations and simulations developed as part of undergraduate laboratory work in signal processing and Fourier analysis.
 
 The projects focus on:
@@ -6,6 +7,16 @@ The projects focus on:
 - Fourier analysis
 - convolution and correlation
 - signal sampling and spectral analysis
+
+The repository emphasizes computational approaches to classical signal processing concepts through numerical simulations and visualization.
+
+## Example Topics
+
+- Fourier spectrum analysis
+- Continuous and discrete signal representation
+- Convolution and cross-correlation
+- Signal sampling and reconstruction
+- Complex exponential signals
 
 ## Repository Structure
 
