@@ -23,7 +23,7 @@ The repository emphasizes computational approaches to classical signal processin
 ### 01-continuous-discrete-signals
 Simulation and visualization of continuous and discrete-time signals, including complex-valued sequences.
 
-### 02-fourier-analysis
+### 02-Fourier-Analysis
 Numerical and analytical Fourier transform implementations and spectrum analysis.
 
 ### 03-convolution-correlation
