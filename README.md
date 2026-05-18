@@ -10,6 +10,7 @@ The projects focus on:
 
 The repository emphasizes computational approaches to classical signal processing concepts through numerical simulations and visualization.
 
+
 ## Example Topics
 
 - Fourier spectrum analysis
@@ -42,6 +43,7 @@ Sampling theory demonstrations and continuous-time Fourier transform analysis.
 - Complex Signal Representation
 - MATLAB Numerical Computing
 - Signal Visualization
+
 
 ## Tools
 
