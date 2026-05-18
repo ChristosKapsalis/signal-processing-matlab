@@ -46,3 +46,25 @@ Sampling theory demonstrations and continuous-time Fourier transform analysis.
 ## Tools
 
 - MATLAB
+
+## Example Outputs
+
+### Continuous and Discrete-Time Signal
+![Continuous and Discrete Signal](results/continuous_discrete_signal.png)
+
+### Complex Discrete-Time Signal
+![Complex Discrete-Time Signal](results/complex_discrete_signal.png)
+
+### Fourier Analytical Response
+![Fourier Analytical Response](results/fourier_analytical_response.png)
+
+### DTFT of Exponential Sequence
+![DTFT of Exponential Sequence](results/dtft_exponential_sequence.png)
+
+### Cross-Correlation Example
+![Cross-Correlation Example](results/cross_correlation.png)
+
+### Sampling Example
+![Sampling Example](results/sampling_ts_02ms.png)
+
+The example output figures were exported for visualization purposes, while the main implementations are provided as MATLAB scripts.
